@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" src="" />
+    <img alt="Widget" src="https://github.com/eltonlazzarin/reactjs-widget-trampos/blob/master/src/assets/widget.png" />
     <br>
     Widget Trampos.co clone
 </h1>
@@ -18,14 +18,10 @@
 
   <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/reactjs-widget-trampos">
 
-  <img src="https://api.netlify.com/api/v1/badges/5da5f1f6-af2b-44d8-8043-5fa439e1ed31/deploy-status" alt="Netlify Status">
-
 ### :rocket: Frontend Technologies (WebApp)
 
-<img alt="Github Search Page" src="https://github.com/eltonlazzarin/github-search-repositories-clone/blob/master/src/screenshot/searchPage.png">
+<img alt="Widget App" src="https://github.com/eltonlazzarin/reactjs-widget-trampos/blob/master/src/screenshot/widgetPage.png">
 
-<p align="center">
-  <button><a href="https://github-search-repo-app.netlify.com/"><img alt="Demo" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/demo.png" target="_blank"></img></a></button>
 
 - [ReactJS](https://reactjs.org/)
 - [React Router v5](https://github.com/ReactTraining/react-router)
