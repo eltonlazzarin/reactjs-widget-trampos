@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://trampos.co/api',
+  baseURL: 'https://trampos.co/api',
 })
 
 export default api;
