@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Widget" src="https://github.com/eltonlazzarin/reactjs-widget-trampos/blob/master/src/assets/widget.png" />
     <br>
-    Widget Trampos.co clone
+    Widget Trampos.co Clone
 </h1>
 
 <h4 align="center">
