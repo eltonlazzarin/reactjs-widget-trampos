@@ -16,7 +16,7 @@
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/reactjs-widget-trampos">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/reactjs-widget-trampos">
+  <img alt="GitHub" src="https://github.com/eltonlazzarin/reactjs-widget-trampos/blob/master/LICENSE">
 
   <img src="https://api.netlify.com/api/v1/badges/5da5f1f6-af2b-44d8-8043-5fa439e1ed31/deploy-status" alt="Netlify Status">
 
