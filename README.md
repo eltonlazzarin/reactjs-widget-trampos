@@ -16,9 +16,14 @@
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/reactjs-widget-trampos">
 
+  <img src="https://api.netlify.com/api/v1/badges/3ae09746-2c8c-48eb-a4e1-b85d7df445f1/deploy-status" alt="Netlify Status">
+
 ### :rocket: Frontend Technologies (WebApp)
 
 <img alt="Widget App" src="https://github.com/eltonlazzarin/reactjs-widget-trampos/blob/master/src/screenshot/widgetPage.png">
+
+<p align="center">
+  <button><a href="https://reactjs-widget-trampos.netlify.com/"><img alt="Demo" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/demo.png" target="_blank"></img></a></button>
 
 
 - [ReactJS](https://reactjs.org/)
