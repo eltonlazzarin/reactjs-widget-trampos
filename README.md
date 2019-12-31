@@ -16,8 +16,6 @@
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/reactjs-widget-trampos">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/reactjs-widget-trampos">
-
 ### :rocket: Frontend Technologies (WebApp)
 
 <img alt="Widget App" src="https://github.com/eltonlazzarin/reactjs-widget-trampos/blob/master/src/screenshot/widgetPage.png">
