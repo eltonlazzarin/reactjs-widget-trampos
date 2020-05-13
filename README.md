@@ -18,7 +18,7 @@
 
   <img src="https://api.netlify.com/api/v1/badges/3ae09746-2c8c-48eb-a4e1-b85d7df445f1/deploy-status" alt="Netlify Status">
 
-### :rocket: Frontend Technologies (WebApp)
+## :rocket: Frontend Technologies (WebApp)
 
 <img alt="Widget App" src="https://github.com/eltonlazzarin/reactjs-widget-trampos/blob/master/src/screenshot/widgetPage.png">
 
@@ -48,7 +48,7 @@ $ yarn
 $ yarn start
 ```
 
-### :memo: License
+## :memo: License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/reactjs-widget-trampos/blob/master/LICENSE) for more information.
 
